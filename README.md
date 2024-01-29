@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Password Generator
+This project is a random password generator of some length.The password varies as we allowed to take the numbers or character and 
+the length of password also varies
+
 ## Available Scripts
 
 In the project directory, you can run:
